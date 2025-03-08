@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective Date: [08.03.2025]
+Effective Date: 08.03.2025
 
 Thank you for using Invite Checker ("the Bot"). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our Bot.
 
