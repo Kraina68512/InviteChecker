@@ -42,7 +42,7 @@ You have the right to request the deletion of your data. If you want to remove y
 
 We may update this Privacy Policy from time to time. Any changes will be communicated through our official channels.
 
-# For questions or concerns, please contact us at mardahu.illyahu1@gmail.com
+For questions or concerns, please contact us at mardahu.illyahu1@gmail.com
 
 By using the Bot, you agree to this Privacy Policy.
 
